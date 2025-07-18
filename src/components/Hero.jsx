@@ -58,7 +58,7 @@ const Hero = () => {
   <a href="https://github.com/Niti2102" target="_blank" rel="noopener noreferrer">
     <FaGithub className="hover:text-white cursor-pointer" />
   </a>
-  <a href="https://leetcode.com/u/user9212n/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer">
     <SiLeetcode className="hover:text-white cursor-pointer" />
   </a>
   <a href="https://www.linkedin.com/in/nitish-malaichamy-b7281727b/" target="_blank" rel="noopener noreferrer">
